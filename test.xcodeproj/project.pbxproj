@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CCAD611925F3ADAE00ED0BAB /* DetailController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCAD611825F3ADAE00ED0BAB /* DetailController.swift */; };
 		CCD5E7AE25F3912D00BDCAF6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCD5E7AD25F3912D00BDCAF6 /* AppDelegate.swift */; };
 		CCD5E7B025F3912D00BDCAF6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCD5E7AF25F3912D00BDCAF6 /* SceneDelegate.swift */; };
 		CCD5E7B225F3912D00BDCAF6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCD5E7B125F3912D00BDCAF6 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CCAD611825F3ADAE00ED0BAB /* DetailController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailController.swift; sourceTree = "<group>"; };
 		CCD5E7AA25F3912D00BDCAF6 /* test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCD5E7AD25F3912D00BDCAF6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CCD5E7AF25F3912D00BDCAF6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				CCD5E7B625F3912D00BDCAF6 /* Assets.xcassets */,
 				CCD5E7B825F3912D00BDCAF6 /* LaunchScreen.storyboard */,
 				CCD5E7BB25F3912D00BDCAF6 /* Info.plist */,
+				CCAD611825F3ADAE00ED0BAB /* DetailController.swift */,
 			);
 			path = test;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CCAD611925F3ADAE00ED0BAB /* DetailController.swift in Sources */,
 				CCD5E7B225F3912D00BDCAF6 /* ViewController.swift in Sources */,
 				CCD5E7AE25F3912D00BDCAF6 /* AppDelegate.swift in Sources */,
 				CCD5E7B025F3912D00BDCAF6 /* SceneDelegate.swift in Sources */,
